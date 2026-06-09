@@ -1,0 +1,61 @@
+TeacherID,TeacherName,Age,Gender,Expertise,YearsOfExperience,TeacherRating,ExperienceTier,TeacherRatingTier,EnrollmentCountPerInstructor,TotalEnrollments,AvgCourseRating,StdCourseRating,UniqueCoursesTaught,ConsistencyScore,ReliabilityScore,PerformanceScore,Cluster,InstructorSegment
+TC00001,Leonard Montgomery,44,Female,Cybersecurity,6,3.24,Intermediate,Medium,36,36,2.85,1.3136278072091105,15,34.32,22.24,30.65,3,Growing Instructors
+TC00002,Jill Day,32,Female,Digital Marketing,9,4.14,Experienced,High,68,68,3.71,0.9293883872544765,9,53.53,44.32,62.26,1,Average Instructors
+TC00003,Amber Torres,32,Male,Design,4,1.56,Intermediate,Low,59,59,3.11,1.059548275548319,15,47.02,14.67,21.49,0,At-Risk Instructors
+TC00004,Kristi Scott,34,Female,Machine Learning,9,4.39,Experienced,High,47,47,2.55,1.3783203455739623,8,31.08,27.29,34.45,3,Growing Instructors
+TC00005,David Williams,34,Male,Finance,2,3.11,Beginner,Medium,47,47,2.79,1.2374948210022538,18,38.13,23.71,26.18,3,Growing Instructors
+TC00006,Rebecca Webb,49,Male,Cybersecurity,14,3.36,Experienced,Medium,48,48,3.22,1.3014285658678075,15,34.93,23.47,44.69,1,Average Instructors
+TC00007,Angela Beard,28,Female,Machine Learning,6,4.36,Intermediate,High,49,49,2.51,1.3256159523260214,9,33.72,29.4,31.9,3,Growing Instructors
+TC00008,Steven Walker,41,Male,Data Science,15,3.54,Experienced,Medium,133,133,3.27,0.5061595648868572,9,74.69,52.88,48.55,1,Average Instructors
+TC00009,Alexander Tucker,49,Female,Project Management,2,2.22,Beginner,Low,58,58,3.17,1.432166941250358,15,28.39,12.61,28.22,0,At-Risk Instructors
+TC00010,Frances Sanchez,29,Male,Data Science,1,2.18,Beginner,Low,81,81,3.34,0.7046082660897297,17,64.77,28.24,31.73,0,At-Risk Instructors
+TC00011,Carol Edwards,37,Female,Artificial Intelligence,8,3.55,Intermediate,Medium,46,46,2.96,0.9806989767975631,9,50.97,36.19,37.0,3,Growing Instructors
+TC00012,Christopher Nelson,48,Female,Cybersecurity,2,3.85,Beginner,Medium,26,26,3.43,1.22475573702866,9,38.76,29.85,49.13,1,Average Instructors
+TC00013,Brian Carrillo,35,Female,Digital Marketing,6,3.42,Intermediate,Medium,23,23,3.45,1.1163077904430985,14,44.18,30.22,47.45,1,Average Instructors
+TC00014,Susan Randolph,49,Male,Project Management,3,2.45,Beginner,Low,57,57,3.1,1.5594269077779035,13,22.03,10.79,28.75,0,At-Risk Instructors
+TC00015,John Armstrong,43,Male,Data Science,7,3.07,Intermediate,Medium,61,61,3.27,0.8533190743344198,20,57.33,35.2,40.57,1,Average Instructors
+TC00016,David Carlson,33,Male,Data Science,1,2.92,Beginner,Low,108,108,3.29,0.740245549476827,17,62.99,36.78,37.26,0,At-Risk Instructors
+TC00017,Brian Perez,36,Male,Digital Marketing,4,2.33,Intermediate,Low,51,51,3.53,1.129907891439499,17,43.5,20.27,39.3,0,At-Risk Instructors
+TC00018,Kari Pierce,47,Female,Project Management,11,4.28,Experienced,High,93,93,3.25,1.511074275199813,8,24.45,20.93,52.61,1,Average Instructors
+TC00019,Tommy Haynes,35,Male,Digital Marketing,8,3.4,Intermediate,Medium,35,35,3.33,0.9948176641344632,17,50.26,34.18,45.16,1,Average Instructors
+TC00020,Tara Reynolds,44,Female,Digital Marketing,10,3.23,Experienced,Medium,25,25,3.87,1.0346778886848473,14,48.27,31.18,58.39,1,Average Instructors
+TC00021,Adam Holmes,34,Female,Machine Learning,2,3.99,Beginner,Medium,51,51,2.82,1.4179173072489377,9,29.1,23.23,34.97,3,Growing Instructors
+TC00022,John Holmes,33,Male,Digital Marketing,3,2.5,Beginner,Low,42,42,3.62,1.1334341350266763,16,43.33,21.66,42.45,0,At-Risk Instructors
+TC00023,Robert Mack,32,Male,Finance,4,2.99,Intermediate,Low,95,95,3.24,1.021307847832764,18,48.93,29.26,37.81,0,At-Risk Instructors
+TC00024,Michael Kim,40,Male,Digital Marketing,6,4.22,Intermediate,High,57,57,3.58,0.8840930671475975,8,55.8,47.09,58.35,1,Average Instructors
+TC00025,Justin Pham,29,Male,Web Development,4,2.17,Intermediate,Low,48,48,2.88,1.1641470068449686,15,41.79,18.14,21.03,0,At-Risk Instructors
+TC00026,Patrick Wilson,29,Male,Web Development,1,2.83,Beginner,Low,51,51,3.23,1.1033445766857972,15,44.83,25.38,34.51,0,At-Risk Instructors
+TC00027,Laurie Michael,44,Female,Artificial Intelligence,3,1.55,Beginner,Low,133,133,3.15,1.1369033341316748,13,43.15,13.38,22.54,0,At-Risk Instructors
+TC00028,Timothy Bailey,27,Female,Business,3,1.06,Beginner,Low,161,161,2.77,0.7497867243340454,16,62.51,13.25,8.43,0,At-Risk Instructors
+TC00029,David Webb,50,Male,Artificial Intelligence,2,3.1,Beginner,Medium,66,66,3.26,1.0636876962490047,18,46.82,29.03,38.47,0,At-Risk Instructors
+TC00030,David Aguirre,50,Male,Artificial Intelligence,6,3.01,Intermediate,Medium,54,54,3.24,1.1022511112397255,17,44.89,27.02,38.56,1,Average Instructors
+TC00031,Brenda Mercer,47,Female,Cybersecurity,1,1.86,Beginner,Low,164,164,3.07,1.3105121358489562,15,34.47,12.82,22.67,0,At-Risk Instructors
+TC00032,James Holder,44,Male,Cybersecurity,1,3.11,Beginner,Medium,36,36,3.18,1.4419331160324707,15,27.9,17.36,35.72,0,At-Risk Instructors
+TC00033,Wesley Garcia,39,Female,Design,12,4.04,Experienced,High,137,137,3.25,1.1197269485210715,8,44.01,35.56,51.24,1,Average Instructors
+TC00034,Brandon Dawson,38,Male,Web Development,3,2.79,Beginner,Low,51,51,3.03,1.2808548003610103,15,35.96,20.06,29.87,0,At-Risk Instructors
+TC00035,Sharon Jackson,27,Male,Digital Marketing,5,3.13,Intermediate,Medium,38,38,3.77,0.9190356517354153,14,54.05,33.83,52.96,1,Average Instructors
+TC00036,Brenda Mclean,28,Male,Digital Marketing,4,1.39,Intermediate,Low,46,46,3.38,1.1819041379504296,15,40.9,11.37,26.96,0,At-Risk Instructors
+TC00037,Debra Escobar,47,Male,Finance,8,4.39,Intermediate,High,117,117,3.05,0.9774407508672525,10,51.13,44.89,47.5,3,Growing Instructors
+TC00038,Jeffrey Clark,43,Male,Digital Marketing,1,2.38,Beginner,Low,70,70,3.48,1.1287320062924526,18,43.56,20.74,37.28,0,At-Risk Instructors
+TC00039,Elizabeth Bishop,34,Male,Finance,7,3.31,Intermediate,Medium,41,41,3.39,0.9700255214143189,16,51.5,34.09,45.53,1,Average Instructors
+TC00040,Kimberly Miller,49,Male,Cybersecurity,24,4.58,Expert,High,3025,3025,3.15,1.1422634085155274,55,42.89,39.28,77.71,2,Star Performers
+TC00041,Kevin Simpson,46,Male,Artificial Intelligence,7,3.55,Intermediate,Medium,44,44,3.18,0.9289864387506761,7,53.55,38.02,42.31,1,Average Instructors
+TC00042,Yolanda Levine,49,Female,Machine Learning,21,4.97,Expert,High,3061,3061,3.08,1.1721133902521543,55,41.39,41.15,78.35,2,Star Performers
+TC00043,John Williams,30,Female,Project Management,1,1.05,Beginner,Low,68,68,2.96,1.4401381734874377,14,27.99,5.88,11.9,0,At-Risk Instructors
+TC00044,Barbara Maynard,27,Male,Finance,4,2.61,Intermediate,Low,77,77,3.2,1.069382044105039,14,46.53,24.29,33.42,0,At-Risk Instructors
+TC00045,Emily Gutierrez,28,Female,Web Development,5,1.07,Intermediate,Low,56,56,2.8,1.2273436499468822,17,38.63,8.27,9.61,0,At-Risk Instructors
+TC00046,Brent Walters,33,Male,Cybersecurity,6,3.87,Intermediate,Medium,31,31,2.89,1.2859344119464093,9,35.7,27.63,37.14,3,Growing Instructors
+TC00047,Brad Griffin,27,Male,Design,4,1.79,Intermediate,Low,65,65,3.17,1.1861082532642366,14,40.69,14.57,25.14,0,At-Risk Instructors
+TC00048,Theresa Gonzalez,30,Male,Finance,7,3.18,Intermediate,Medium,33,33,3.32,1.1771974937936025,15,41.14,26.17,42.67,1,Average Instructors
+TC00049,Valerie Wiley,46,Female,Machine Learning,6,3.46,Intermediate,Medium,95,95,2.91,1.3645949236718882,16,31.77,21.99,34.48,3,Growing Instructors
+TC00050,Alexander Williams,32,Female,Digital Marketing,3,3.41,Beginner,Medium,24,24,3.29,1.0676681213707304,15,46.62,31.79,42.11,1,Average Instructors
+TC00051,John Obrien,36,Female,Design,2,1.77,Beginner,Low,63,63,3.12,1.2747198320735493,14,36.26,12.84,22.74,0,At-Risk Instructors
+TC00052,Susan Johnson,34,Female,Business,12,3.43,Experienced,Medium,97,97,2.84,0.8313178375802109,19,58.43,40.09,35.1,3,Growing Instructors
+TC00053,Aaron Kirby,35,Male,Marketing,9,4.29,Experienced,High,120,120,3.65,1.0520898237312628,9,47.4,40.67,62.34,1,Average Instructors
+TC00054,Shelby Patrick,40,Female,Artificial Intelligence,7,4.28,Intermediate,High,46,46,3.15,1.1295119077541653,9,43.52,37.26,47.99,1,Average Instructors
+TC00055,Alison Wilson,47,Female,Cybersecurity,12,3.53,Experienced,Medium,37,37,2.54,1.1735910343539253,8,41.32,29.17,27.85,3,Growing Instructors
+TC00056,Alexis Everett,35,Female,Programming,9,3.95,Experienced,Medium,123,123,2.98,1.175254317548178,8,41.24,32.58,42.14,3,Growing Instructors
+TC00057,Brittany Scott,44,Male,Data Science,7,3.44,Intermediate,Medium,49,49,3.25,0.82446509148346,15,58.78,40.44,43.21,1,Average Instructors
+TC00058,Andrew Anderson,49,Male,Web Development,7,3.71,Intermediate,Medium,138,138,2.79,1.1134132840115722,10,44.33,32.89,34.34,3,Growing Instructors
+TC00059,Noah Stewart,48,Female,Cybersecurity,6,3.82,Intermediate,Medium,47,47,3.01,1.3895223425427647,10,30.52,23.32,39.99,3,Growing Instructors
+TC00060,Benjamin Gray,48,Female,Project Management,14,3.32,Experienced,Medium,92,92,2.93,1.4678863175602053,15,26.61,17.67,37.29,3,Growing Instructors
